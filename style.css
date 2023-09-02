@@ -18,7 +18,7 @@
   position: absolute;
   top: 50px;
   left: -15px;
-  animation: sun 5s ease-in-out;
+  animation: sun 10s ease-in-out;
 }
 .cloud1 {
   width: 250px;
